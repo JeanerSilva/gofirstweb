@@ -3,7 +3,7 @@ package routes
 import (
 	"net/http"
 
-	"github.com/usuário/site/controllers"
+	"github.com/usuário/site/gofirstweb/controllers"
 )
 
 func CarregaRotas() {

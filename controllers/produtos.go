@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/usuário/site/models"
+	"github.com/usuário/site/gofirstweb/models"
 )
 
 var temp = template.Must(template.ParseGlob("templates/*.html"))

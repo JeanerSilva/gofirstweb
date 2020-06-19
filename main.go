@@ -3,7 +3,7 @@ package main
 import (
 	"net/http"
 
-	"github.com/usuário/site/routes"
+	"github.com/usuário/site/gofirstweb/routes"
 )
 
 func main() {
